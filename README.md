@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Khamou1
-- 👀 I’m interested in electronic and machine learning
+- 👀 I’m interested in electronic and web development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on to be more creative
 - 📫 How to reach to develop my own website
